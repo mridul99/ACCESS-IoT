@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use ACCESS-IoT or this code, please cite the dataset (and the article once published)."
+title: "ACCESS-IoT: evaluation and reference-baseline code"
+type: software
+license: MIT
+repository-code: "https://github.com/mridul99/ACCESS-IoT"
+authors:
+  - given-names: "Mishra Mridul"
+    family-names: "Kailashchandra"
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology Patna, India"
+    orcid: "https://orcid.org/0000-0002-8172-2798"
+  - given-names: "Udai Pratap"
+    family-names: "Rao"
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology Patna, India"
+    orcid: "https://orcid.org/0000-0002-2372-4138"
+  - given-names: "Pintu"
+    family-names: "Chauhan"
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology Patna, India"
+    orcid: "https://orcid.org/0000-0002-7148-2583"
+references:
+  - type: dataset
+    title: "ACCESS-IoT: A Ground-Truth Dataset and Benchmark for Access Control in Healthcare IoT"
+    version: "1.0"
+    doi: "10.5281/zenodo.23838631"
+    license: CC-BY-4.0
+    authors:
+      - given-names: "Mishra Mridul"
+        family-names: "Kailashchandra"
+      - given-names: "Udai Pratap"
+        family-names: "Rao"
+      - given-names: "Pintu"
+        family-names: "Chauhan"
