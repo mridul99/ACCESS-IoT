@@ -30,7 +30,9 @@ reproducible from the released data, parameters and manifest.
 
 ## Getting the data
 
-Download all files from Zenodo into one folder, e.g. `data/`, and unzip every zip there (the build zips, `results` and `docs`):
+Download all files from Zenodo into one folder, e.g. `data/`, and unzip every zip there (the build zips, `results` and `docs`).
+The larger builds are split into parts (e.g. `ACCESS-IoT-v1.0_main_part1of6.zip` … `part6of6.zip`); unzip all parts into the
+same folder, which gives:
 
 ```
 data/builds/main/requests.parquet
